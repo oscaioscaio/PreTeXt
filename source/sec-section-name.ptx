@@ -3,6 +3,54 @@
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Contact Information</title>
 
-  <p> Text of section. </p>
+  <p> Text of section. <m>\theta= \alpha + \beta</m>
+    <me>\int f(x) x^2 dx </me></p>
+
+
+<sage>
+  <input>
+    
+  </input>
+  <output>
+    
+  </output>
+</sage>
+
+<sage language="python"><input>print(2+2)</input></sage>
+
+<theorem xml:id="thm-FTA">
+  <statement>
+    <p>
+      If <m>p\in \mathbb{R}[x]</m> then <m>p</m> has a root in <m>\mathbb{C}</m>
+    </p>
+  </statement>
+</theorem>
+
+<theorem xml:id="thm-">
+  <statement>
+    <p>
+      One of the following is true
+      <ol>
+        <li>
+          <p>
+            Open
+          </p>
+        </li> 
+        <li>
+          <p>
+            Closed
+          </p>
+        </li>
+      </ol>
+    </p>
+  </statement>
+</theorem>
+
+
+
+
+
+
+
 
 </section>

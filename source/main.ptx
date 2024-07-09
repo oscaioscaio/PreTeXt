@@ -5,8 +5,8 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>MATH 143 SYllabus</title>
-    <subtitle>Attempt 1</subtitle>
+    <title>MATH 143</title>
+    <subtitle>Notes and Syllabus</subtitle>
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
