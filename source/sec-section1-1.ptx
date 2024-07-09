@@ -8,16 +8,6 @@
     <me>\int f(x) x^2 dx </me></p>
 
 
-<sage>
-  <input>
-    
-  </input>
-  <output>
-    
-  </output>
-</sage>
-
-<sage language="python"><input>print(2+2)</input></sage>
 
 <theorem xml:id="thm-FTA">
   <statement>

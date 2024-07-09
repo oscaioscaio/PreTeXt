@@ -2,11 +2,22 @@
 
 
 <section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Week 1</title>
+  <title>Contact Information</title>
 
   <p> Text of section. <m>\theta= \alpha + \beta</m>
     <me>\int f(x) x^2 dx </me></p>
 
+
+<sage>
+  <input>
+    
+  </input>
+  <output>
+    
+  </output>
+</sage>
+
+<sage language="python"><input>print(2+2)</input></sage>
 
 <theorem xml:id="thm-FTA">
   <statement>
